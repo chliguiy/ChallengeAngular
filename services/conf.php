@@ -5,10 +5,10 @@ class CONF {
 	public $DEMO_VERSION = false;
 
 	/* Data configuration for database */
-	public $DB_SERVER = "jbel-annour.com";
-	public $DB_USER = "cl36-market";
-	public $DB_PASSWORD = "marketodyssee";
-	public $DB_NAME = "cl36-market";
+	public $DB_SERVER = "127.0.0.1";
+	public $DB_USER = "root";
+	public $DB_PASSWORD = "";
+	public $DB_NAME = "challenge";
 	
 	/* FCM key for notification */
 	public $FCM_KEY = "AIzaSyCv-90mFpx3SCWlIKSXXXXXXXXXXXXXXXXXXXXXX";
